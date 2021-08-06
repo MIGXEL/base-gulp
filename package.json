@@ -1,0 +1,24 @@
+{
+  "name": "festival-musica",
+  "version": "1.0.0",
+  "description": "aprediendo sass y gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass",
+    "gulp",
+    "npm",
+    "node"
+  ],
+  "author": "Miguel Antiman Vasquez",
+  "license": "ISC",
+  "devDependencies": {
+    "dart-sass": "^1.25.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.35.2"
+  }
+}
